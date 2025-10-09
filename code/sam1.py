@@ -1,0 +1,5 @@
+val = input()
+my_list = val.split(" ")
+my_dict = tuple(val.replace(" ", ""))
+print(my_list)
+print(my_dict)
