@@ -1,2 +1,4 @@
-Сколько мне лет?/20
-На каком языке я чаще всего пишу код?/JavaScript
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
